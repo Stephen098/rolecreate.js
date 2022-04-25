@@ -1,0 +1,2 @@
+# rolecreate.js
+discord
